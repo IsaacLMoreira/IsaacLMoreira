@@ -8,6 +8,11 @@ Interested in AI Engineering
 
 </div>
 
+Hey, I'm Isaac. I've always been fascinated by technology, perhaps because I've loved video games for as long as I can remember. 
+I'm especially interested in how artificial intelligence can resemble aspects of human cognition and in the principles behind artificial intelligence and cognitive systems.
+
+Intermediate conversational English. I can communicate effectively, although my English is still a work in progress and occasionally limited in more complex situations.
+
 ---
 <div align="center"> 
 
