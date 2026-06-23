@@ -35,6 +35,16 @@ Intermediate conversational English. I can communicate effectively, although my 
 - NLTK
 - Scikit-learn
 
+> **Machine Learning**
+> >Building predictive models, classification systems, NLP applications, and model evaluation pipelines.
+>
+> **Artificial Intelligence**
+> > Exploring LLMs, Embeddings, RAG architectures, AI Agents, and intelligent systems.
+>
+> **Data Analytics**
+> > Scraping, cleaning, and analyzing data with Python (BeautifulSoup, Pandas).
+
+
 I am currently participating in the AI/R Learning Training Program at Compass UOL, where I am developing practical skills and deepening my knowledge in Artificial Intelligence, Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and related technologies.
   
 <!--
