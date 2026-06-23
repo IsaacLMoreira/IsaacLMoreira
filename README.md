@@ -1,4 +1,13 @@
-## Wellcome to my page :)
+<div align="center">
+
+# Isaac Moreira
+
+**Information Systems Undergraduate @ IFBA**
+
+Interested in AI Engineering
+
+</div>
+
 
 <!--
 **IsaacLMoreira/IsaacLMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
