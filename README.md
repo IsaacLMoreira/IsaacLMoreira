@@ -3,7 +3,7 @@
 # Isaac Moreira's page :)
 
 **Information Systems Undergraduate @ IFBA**  
-*Interested in AI Engineering*
+*Learner in AI Engineering*
 
 </div>
 
